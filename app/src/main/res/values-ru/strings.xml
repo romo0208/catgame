@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Кошачья игра</string>
+    <string name="subtitle">Собери их всех!</string>
+    <string name="highscores">Рекорды</string>
+    <string name="msg_hs_list_is_empty">Список рекордов пустой!</string>
+    <string name="msg_game_over">Вы проиграли!</string>
+    <string name="msg_you_win">Вы выиграли! Ваше время: </string>
+    <string name="msg_it_is_a_highscore">. Это рекорд!</string>
+    <string name="msg_play_again">Вы хотите сыграть еще раз?</string>
+    <string name="hs_id">№: </string>
+    <string name="hs_highscore">, результат: </string>
+    <string name="hs_date">, дата: </string>
+    <string name="clearhighscores">Очистить список рекордов</string>
+    <string name="exit">Выход</string>
+</resources>

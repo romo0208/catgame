@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/highscores"
+        android:title="@string/highscores"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/clearhighscores"
+        android:title="@string/clearhighscores"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        app:showAsAction="withText" />
+
+</menu>

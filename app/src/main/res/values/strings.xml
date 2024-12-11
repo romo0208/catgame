@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cat Game</string>
+    <string name="subtitle">Gather them all!</string>
+    <string name="highscores">High Scores</string>
+    <string name="msg_hs_list_is_empty">High Scores list is empty!</string>
+    <string name="msg_game_over">Game over!</string>
+    <string name="msg_you_win">You win! Your time is: </string>
+    <string name="msg_it_is_a_highscore">. It is a highscore!</string>
+    <string name="msg_play_again">Do you want to play again?</string>
+    <string name="hs_id">#: </string>
+    <string name="hs_highscore">, highscore: </string>
+    <string name="hs_date">, date: </string>
+    <string name="copyright">www.romanmorozov.ru</string>
+    <string name="clearhighscores">Highscores</string>
+    <string name="exit">Exit</string>
+</resources>
